@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 200;
+}
+
+p {
+  line-height: 1.45;
+}
+
+a {
+  color: rgb(39, 118, 202);
+}
+
+.breadcrumb {
+  margin: 48px 32px 0;
+  color: grey;
+}
+
+main {
+  display: flex;
+  width: 85%;
+}
+
+.star {
+  width: 20px;
+}
+
+.book-cover {
+  width: 364px;
+  border: solid 2px rgb(151, 151, 151);
+  box-shadow: 0 4px 8px 0 rgba(73, 73, 73, 0.2), 0 6px 20px 0 rgba(73, 73, 73, 0.2);
+}
+
+.cover-wrapper {
+  margin: 32px;
+}
+
+.summary {
+  margin-top: 32px;
+}
